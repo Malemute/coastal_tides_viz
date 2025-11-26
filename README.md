@@ -231,7 +231,7 @@ It shows both **software engineering** and **applied geospatial analysis** in a 
 
 ## 👤 Author
 
-_Eugeny Mmamontov_  
+_Eugeny Mamontov_  
 Geospatial software developer in transition, focusing on marine/coastal data pipelines, Python GIS, and spatial analysis.
 
 ---
